@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div className='mx-4 max-[600px]:text-sm min-[1000px]:mx-12 min-[1000px]:flex min-[1000px]:flex-row justify-center flex flex-col my-8 items-center gap-16'>
+        <div className='mx-4 max-[600px]:text-sm min-[1000px]:mx-12 min-[1000px]:flex min-[1000px]:flex-row justify-center flex flex-col my-4 items-center gap-16'>
             <section className='min-[1000px]:w-[30%] w-[50%]'>
                 <img src="/1.png" className='w-full' alt="" />
             </section>
